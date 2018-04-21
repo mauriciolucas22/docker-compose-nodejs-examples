@@ -1,4 +1,4 @@
-# Docker Compose and simple express server
+# Docker Compose and react-app
 
 Start
 =============
