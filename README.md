@@ -1,4 +1,4 @@
-#Getting started with Docker Compose and Nodejs
+# Getting started with Docker Compose and Nodejs
 
 ![](https://cdn-images-1.medium.com/max/1600/0*cAGmXPxnXeTE0QFZ.)
 
